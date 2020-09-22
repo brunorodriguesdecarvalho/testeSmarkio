@@ -75,7 +75,7 @@
       
     3. Passo: Utilizar script SQL para criar as 3 tabelas.
     
-      - Para agilizar o processo de criação, executar no MySQL Workbench o script SQL do arquivo "NOME DO AQUIVO.SQL" contido neste repositório.
+      - Para agilizar o processo de criação, executar no MySQL Workbench o script SQL do arquivo "criarDB.SQL" contido neste repositório.
   
 
 
