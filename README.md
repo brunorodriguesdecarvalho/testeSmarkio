@@ -1,7 +1,10 @@
-# Teste prático de BI
-  Este é um repositório para os arquivos relacionados ao teste para a vaga de analista de BI na Smarkio.
+# h1 Teste prático de BI
+**_Este é um repositório para os arquivos relacionados ao teste para a vaga de analista de BI na Smarkio._**
 
-  Instruções gerais: Imagine uma aplicação de chatbot onde cada mensagem são detectados suas intenções com inteligência artificial e essas mensagens são depois avaliadas por um humano, precisamos monitorar as mensagem e a trajetória do usuário no chatbot.
+## h2 Instruções gerais:
+
+  Imagine uma aplicação de chatbot onde cada mensagem são detectados suas intenções com inteligência artificial e essas mensagens são depois avaliadas por um humano, precisamos monitorar as mensagem e a trajetória do usuário no chatbot.
+
 
   1. Passo: Modele um banco de dados com as seguintes tabelas:
     Table1 - Usuários;
@@ -39,10 +42,10 @@
 
   5. Passo: Crie uma aplicação em NodeJS para apresentar um dashboard com os resultados das consultas do passo 3 nessa mesma aplicação com os resultados das análises do passo 4 colocando em prática os conceitos de Data Visualization e StoryTelling.
 
-# Entrega
+## h2 Entrega
   O candidato deverá disponibilizar cada passo do projeto em um repositório público do Github. Deverá ser adicionado um README.md com instruções de como executá-lo em um ambiente local.
 
-# Instruções para execução em ambiente local
+## h2 Instruções para execução em ambiente local
 
   Softwares utilizados para realizar este teste: 
     - Windows 10
