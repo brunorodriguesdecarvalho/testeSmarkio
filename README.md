@@ -47,9 +47,10 @@
 
 ## Instruções para execução em ambiente local
 
-### Softwares utilizados para realizar este teste: 
+### Ambiente e Softwares utilizados para realizar este teste: 
     - Windows 10
     - MySQL Workbench 8.2
+    - Microsoft Excel 2016
     
   
 ### Configuração do MySQL Workbench em um ambiente local
@@ -67,13 +68,14 @@
         - Caso não seja possível entrar em contato com a pessoa responsável, pode utilizar esse [passo-a-passo](https://www.cyberciti.biz/tips/recover-mysql-root-password.html) para recuperar/alterar a senha.
         - Se tiver problemas adicionais, pode checar este [link](https://dev.mysql.com/doc/workbench/en/wb-installing.html) para orientações sobre como instalar o MySQL Workbench e acessar este [link](https://dev.mysql.com/doc/workbench/en/wb-configuring.html) para dúvidas adicionais sobre como configurar o MySQL Workbench corretamente.
       
-    2. Passo: 
+    2. Passo: Testar Conexão
     
       - Testar a conexão com as confiugurações descritas no passo 1. 
       - Se necessário, retornar ao passo 1 para corrigir a instalação ou a configuração do MySQL Workbench.
       
-    3. Passo: 
-      - 
- 
+    3. Passo: Utilizar script SQL para criar as 3 tabelas.
+    
+      - Para agilizar o processo de criação, executar no MySQL Workbench o script SQL do arquivo "NOME DO AQUIVO.SQL" contido neste repositório.
+  
 
 
