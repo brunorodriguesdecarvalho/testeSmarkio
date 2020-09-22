@@ -64,8 +64,8 @@
       - Password: 
         - Normalmente essa senha fica em branco e a conexão é bem sucedida. 
         - Se não foi você quem fez a instalação do MySQL Workbench, o mais recomendado é solicitar orientação para quem fez a instalação.
-        - Caso não seja possível entrar em contato com a pessoa responsável, pode utilizar esse passo-a-passo (https://www.cyberciti.biz/tips/recover-mysql-root-password.html) para recuperar/alterar a senha.
-        - Se tiver problemas adicionais, pode checar este link (https://dev.mysql.com/doc/workbench/en/wb-installing.html) para orientações sobre como instalar o MySQL Workbench e acessar este link (https://dev.mysql.com/doc/workbench/en/wb-configuring.html) para dúvidas adicionais sobre como configurar o MySQL Workbench corretamente.
+        - Caso não seja possível entrar em contato com a pessoa responsável, pode utilizar esse [passo-a-passo](https://www.cyberciti.biz/tips/recover-mysql-root-password.html) para recuperar/alterar a senha.
+        - Se tiver problemas adicionais, pode checar este [link](https://dev.mysql.com/doc/workbench/en/wb-installing.html) para orientações sobre como instalar o MySQL Workbench e acessar este [link](https://dev.mysql.com/doc/workbench/en/wb-configuring.html) para dúvidas adicionais sobre como configurar o MySQL Workbench corretamente.
       
     2. Passo: 
     
